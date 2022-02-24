@@ -32,6 +32,5 @@ I got this skills with the help of Meraki Academy and it lasted for five months 
 -  - --------------------------------------------------------------------------------------------------------------------------------
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubaalnadi&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaalnadi)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaalnadi&theme=radical) -->
 
