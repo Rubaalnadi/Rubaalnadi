@@ -31,5 +31,6 @@ I got this skills with the help of Meraki Academy and it lasted for five months 
 -  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" > 
 -  - --------------------------------------------------------------------------------------------------------------------------------
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubaalnadi&theme=radical)
 
 
