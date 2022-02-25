@@ -30,7 +30,15 @@ I got this skills with the help of Meraki Academy and it lasted for five months 
 -  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" >
 -  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" > 
 -  - --------------------------------------------------------------------------------------------------------------------------------
-
+-My GitHub state
+<br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rubaalnadi&theme=radical)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaalnadi&theme=radical) -->
+-  - --------------------------------------------------------------------------------------------------------------------------------
+-To contact me 
+<br />
+<a href="https://www.linkedin.com/in/ruba-alnadi/" target="_blank"> ![icons8-linkedin (1)](https://user-images.githubusercontent.com/70472838/155805884-bbc6b913-6f8e-4724-bb5d-670423fd4faf.svg)
+ </a>
+<a href="https://maileto:rubaalnadi5@gmail.com" target="_blank"> <img src="https://img.icons8.com/external-nawicon-flat-nawicon/64/000000/external-email-communication-nawicon-flat-nawicon-2.png" alt="email" width="40"/>
+ </a>
 
